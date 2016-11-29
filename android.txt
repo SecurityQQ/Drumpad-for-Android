@@ -1,0 +1,3 @@
+title=<DRUMMACHINE>
+author=<SecurityQQ>
+orientation=<portrait|landscape>
